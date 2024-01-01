@@ -20,7 +20,7 @@ Open api.json and paste your GenerativeAI API key:
 
 3. Run the Application:
 
-    streamlit run your_app_file.py
+    streamlit run app.py
 
 Configuration
 Make sure to configure the api.json file with your GenerativeAI API key.
